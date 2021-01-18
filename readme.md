@@ -19,6 +19,7 @@ exec(message.content, (error, stdout, stderr) => {
         }
         message.channel.send(`stdout: ${stdout}`);
     })
+    
 ```
 
 ## Installation
