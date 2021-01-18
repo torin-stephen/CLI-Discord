@@ -19,12 +19,12 @@ exec(message.content, (error, stdout, stderr) => {
         }
         message.channel.send(`stdout: ${stdout}`);
     })
-    
+
 ```
 
 ## Installation
 
-- Git clone this repository<br><br>
+- Git clone this repository
 - Run `npm install`
 - Add a `config.json` with your  token
 ```json
