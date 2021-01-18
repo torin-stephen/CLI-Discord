@@ -1,4 +1,4 @@
-# CLI Discord Bot
+# CLI-Discord
 
 ## Introduction
 
@@ -32,4 +32,4 @@ exec(message.content, (error, stdout, stderr) => {
     "token": "abcde"
 }
 ```
-- run `node .`
+- Run `node .`
