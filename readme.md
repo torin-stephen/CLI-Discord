@@ -6,7 +6,7 @@
 
 ## Code Samples
 
-> 29 lines, but main code is here
+> 29 lines (17 simplified), but main code is here
 ```js
 exec(message.content, (error, stdout, stderr) => {
         if (error) {
